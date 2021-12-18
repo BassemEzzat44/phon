@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "317965536067",
+    "project_id": "phone-770aa",
+    "storage_bucket": "phone-770aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317965536067:android:a953a74aecf98f3c143df6",
+        "android_client_info": {
+          "package_name": "com.example.phon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317965536067-t8fgc28g0rrn6npvs0nj5b7nvd4ji9nr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeDTdidKGJOVvhH5M7IiJWj2sLdt_kPXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317965536067-t8fgc28g0rrn6npvs0nj5b7nvd4ji9nr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
